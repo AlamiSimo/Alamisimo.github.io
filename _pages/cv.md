@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Msc in Artificial Intelligence, CentraleSupélec
+* bachelor (Licence) in Pure Mathematics/Physics, Université Pierre et Marie Curie
+* Msc in Corporate Finance and Banking, EDHEC Business School
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar2016-Aug2016 IT Commando
+  * Société Générale CIB
+  *  Developed Front Office Tactical Tools for Commodities Traders (VBA, SQL, Python)
+  * Developed an interface allowing a more efficient calculation of Stress Test Shocks for commodities
+  * Created and improved risk reports (Stress Test, VAR, SVAR, Sensitivities, Greeks) sent to ECB
+  * Monitored and implemented Financial Regulation (FED, Volcker). 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Aug 2015-Feb2016 Trader Assistant (Exotic and Hybrid derivatives)
+  * Société Générale CIB
+  * Produced the daily P&L of structured products activity 
+  * Priced Equity and Hybrid exotic products: Autocalls, Digitals, Dual Range Accruals, Varswaps
+  * Produced daily risk analysis reports: Spot, Volatility, Rates, Forex, Stress Tests , Greeks
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fluent in English, French, Arabic
+* Programming:
+  * Python
+  * R, Matlab, Sql
+  * MapReduce, Hadoop, Spark
