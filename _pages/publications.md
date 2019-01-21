@@ -1,6 +1,6 @@
 ---
 layout: archive
-[//]: <> (title: "Papers", delete the balise to uncomment)
+title: ""
 permalink: /publications/
 author_profile: true
 ---
