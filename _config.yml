@@ -85,7 +85,7 @@ author:
   bio              : "AI student @ CentraleSupélec interested in a Phd in Machine/Deep learning."
   location         : "Paris, France"
   employer         :
-  googlescholar    : ""
+  googlescholar    : 
   email            : "m.alamichehboune@student-cs.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,13 +101,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "mohamed-alami-chehboune-5b613277/"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
