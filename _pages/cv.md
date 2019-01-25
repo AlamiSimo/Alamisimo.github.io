@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * Msc in Artificial Intelligence, CentraleSupélec
-* bachelor (Licence) in Pure Mathematics/Physics, Université Pierre et Marie Curie
+* Bachelor (Licence) in Pure Mathematics/Physics, Université Pierre et Marie Curie
 * Msc in Corporate Finance and Banking, EDHEC Business School
 
 Work experience
 ======
-* Mar2016-Aug2016 IT Commando
+* Mar16-Aug16 IT Commando
   * Société Générale CIB
   *  Developed Front Office Tactical Tools for Commodities Traders (VBA, SQL, Python)
   * Developed an interface allowing a more efficient calculation of Stress Test Shocks for commodities
@@ -25,11 +25,11 @@ Work experience
   * Monitored and implemented Financial Regulation (FED, Volcker). 
 
 
-* Aug 2015-Feb2016 Trader Assistant (Exotic and Hybrid derivatives)
+* Aug 215-Feb216 Trader Assistant (Exotic and Hybrid derivatives)
   * Société Générale CIB
   * Produced the daily P&L of structured products activity 
   * Priced Equity and Hybrid exotic products: Autocalls, Digitals, Dual Range Accruals, Varswaps
-  * Produced daily risk analysis reports: Spot, Volatility, Rates, Forex, Stress Tests , Greeks
+  * Produced daily risk analysis reports: Spot, Volatility, Rates, Forex, Stress Tests, Greeks
 
   
 Skills
